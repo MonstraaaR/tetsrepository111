@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.AssemblyInfo.cs
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Work VSC\bin\Debug\net6.0\Work VSC.exe
+C:\Users\New\Desktop\Work VSC\bin\Debug\net6.0\Work VSC.deps.json
+C:\Users\New\Desktop\Work VSC\bin\Debug\net6.0\Work VSC.runtimeconfig.json
+C:\Users\New\Desktop\Work VSC\bin\Debug\net6.0\Work VSC.dll
+C:\Users\New\Desktop\Work VSC\bin\Debug\net6.0\Work VSC.pdb
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.dll
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\refint\Work VSC.dll
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.pdb
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\Work VSC.genruntimeconfig.cache
+C:\Users\New\Desktop\Work VSC\obj\Debug\net6.0\ref\Work VSC.dll
